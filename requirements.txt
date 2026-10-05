@@ -1,4 +1,4 @@
-Django==2.*
+Django==6.*
 gunicorn
 psycopg2
 django-heroku==0.3.*
@@ -14,7 +14,7 @@ drf-yasg
 selenium==3.141.0
 django-annoying
 mock
-requests==2.23.0
+requests==2.33.0
 matplotlib
 attr
 django-bootstrap4
